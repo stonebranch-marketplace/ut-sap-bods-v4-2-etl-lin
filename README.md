@@ -1,4 +1,4 @@
-# ut-sap-bods-v4-2-etl-lin
+# ut-sap-bods-v4-2-etl-linux
 # Abstract: 
 This Universal Task allows to execute an SAP Data Services “ETL” Job using the “AL_RWJobLauncher.exe” utility which comes with the SAP Data Services installation
 
